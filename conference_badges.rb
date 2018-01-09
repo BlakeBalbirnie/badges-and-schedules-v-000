@@ -17,3 +17,4 @@ def printer (name)
 
   badge_n.each {|n| puts n}
   assign_n.each {|n| puts n}
+end
